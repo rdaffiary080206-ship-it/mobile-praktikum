@@ -1,4 +1,4 @@
-# Proyek Pemrograman Mobile
+# Project Pemrograman Mobile
 
 ## Deskripsi
 
